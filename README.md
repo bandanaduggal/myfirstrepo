@@ -1,2 +1,2 @@
 myfirstrepo
-my first repository
+my first repository : test post
